@@ -7,7 +7,7 @@
  --red: #ff2a00;
  --green: green;
  --blue: #134882;
- --primary-color: var(--green);
+ --primary-color: var(--red);
  --secondary-color: #111;
  --accent-color: #444;
  --brighter-accent: #ccc;
@@ -93,3 +93,4 @@ body {
 .cell > .handle:last-of-type {
  rotate: var(--second-handle);
 }
+
